@@ -1,0 +1,1 @@
+# Extraindo_Texto_de_PDF
